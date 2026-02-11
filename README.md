@@ -6,5 +6,6 @@ I build Android apps with **Kotlin** and develop backend services using **Spring
 
 
 ## 📱 Published App
- Quiz Trivia 
+ Quiz Trivia
+ 
 https://play.google.com/store/apps/details?id=com.alionur.quizzy
