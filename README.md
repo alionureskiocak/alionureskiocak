@@ -4,7 +4,7 @@ I'm Ali Onur Eskiocak, a 3rd-year Computer Engineering student at Ege University
 
 I build Android apps with **Kotlin** and develop backend services using **Spring Boot**.
 
-How to reach me: [LinkedIn]([LinkedIn-Linkin](https://www.linkedin.com/in/alionureskiocak/)
+How to reach me: [LinkedIn](https://www.linkedin.com/in/alionureskiocak/)]
 
 ## 📱 Published App
  Quiz Trivia
